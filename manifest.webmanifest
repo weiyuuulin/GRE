@@ -1,0 +1,22 @@
+{
+  "name": "GRE 智慧單字本",
+  "short_name": "GRE 單字本",
+  "description": "GRE 單字、同義詞、錯題與難記字複習工具",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f7f4ed",
+  "theme_color": "#f7f4ed",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
